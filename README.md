@@ -6,16 +6,16 @@
 > :school: **2557-2563** โรงเรียนราชวินิตบางเขน <br>
 > :derelict_house: **2563-2566** มหาวิทยาลัยธุรกิจบัณฑิตย์
 ## SKILLS AND EXPERTIZE
-> C#  >:star::star::star::star: <br>
-> Python >:star::star::star::star::star: <br>
-> Html >:star::star::star::star::star: <br>
-> Css >:star::star::star::star::star: <br>
-> Js  >:star::star::star: <br>
-> SQL Server  >:star::star::star::star: <br>
-> MERN stack  >:star::star::star::star: <br>
-> Angular framwork >:star::star::star: <br>
-> .NET framwork >:star::star::star: <br>
-> Mongo DB >:star::star::star: <br>
+> C#  :2nd_place_medal: <br>
+> Python :1st_place_medal: <br>
+> Html :1st_place_medal: <br>
+> Css :1st_place_medal: <br>
+> Js  :3rd_place_medal: <br>
+> SQL Server  :2nd_place_medal: <br>
+> MERN stack  :2nd_place_medal: <br>
+> Angular framwork :2nd_place_medal: <br>
+> .NET framwork :2nd_place_medal: <br>
+> Mongo DB :2nd_place_medal: <br>
 
 <!--
 **TanyaratJivnot/TanyaratJivnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

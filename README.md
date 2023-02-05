@@ -6,13 +6,13 @@
 > :school: **2557-2563** โรงเรียนราชวินิตบางเขน <br>
 > :derelict_house: **2563-2566** มหาวิทยาลัยธุรกิจบัณฑิตย์
 ## SKILLS AND EXPERTIZE
-> C# :star::star::star::star: <br>
-> Python :star::star::star::star::star: <br>
-> Html :star::star::star::star::star: <br>
-> Css :star::star::star::star::star: <br>
-> Js :star::star::star: <br>
-> SQL Server :star::star::star::star: <br>
-> MERN stack :star::star::star::star: <br>
+> C#                  :star::star::star::star: <br>
+> Python              :star::star::star::star::star: <br>
+> Html                :star::star::star::star::star: <br>
+> Css         :star::star::star::star::star: <br>
+> Js          :star::star::star: <br>
+> SQL Server  :star::star::star::star: <br>
+> MERN stack  :star::star::star::star: <br>
 > Angular framwork :star::star::star: <br>
 > .NET framwork :star::star::star: <br>
 > Mongo DB :star::star::star: <br>

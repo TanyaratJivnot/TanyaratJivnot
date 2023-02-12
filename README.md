@@ -20,6 +20,8 @@
 
 ## MY CERTIFICATE
 ![UC-b5f5350c-2f88-4925-bef0-3018cdd78905](https://user-images.githubusercontent.com/93580162/216835598-0bcb1b1a-01ab-471a-b3fa-0a1f6ca59f5f.jpg)
+![258](https://user-images.githubusercontent.com/93580162/218296342-0774f53c-6f6c-4e76-bec3-df178c128dfa.jpg)
+
 ## Quotes ⭐
 > "การมีความรู้เพียงอย่างเดียวงนั้นยังไม่พอ เราต้องรู้จักนำมันออกมาใช้ และการมีความตั้งใจอย่างเดียวนั้นยังน้อยไป เราต้องรู้จักลงมือทำ" <br>
 > ~ Leonardo da Vinci
